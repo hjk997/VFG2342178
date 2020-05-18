@@ -1,18 +1,3 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public class SunLight : MonoBehaviour
-{
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        transform.Rotate(new Vector3(0.15f, 0f, 0f), Space.World);
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:84866b4c2a32412a3bd44ceacad9dce125969d2a08600df79ec5fad497dc2014
+size 447
